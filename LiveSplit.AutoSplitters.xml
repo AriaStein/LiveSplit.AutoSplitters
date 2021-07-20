@@ -12564,4 +12564,14 @@
     	<Description>Subnautica Autosplit (by Meeperty)</Description>
     	<Website>https://discord.gg/ZnvrDZDpc4</Website>
      </AutoSplitter>
+	    <AutoSplitter>
+    	<Games>
+        	<Game>Disco Elysium</Game>
+    	</Games>
+    	<URLs>
+        	<URL>https://raw.githubusercontent.com/AriaStein/disco-elysium-load-remover/main/disco.asl</URL>
+    	</URLs>
+    	<Type>Script</Type>
+    	<Description>Load remover for Disco Elysium (by TheWeightOfUwU)</Description>
+     </AutoSplitter>
 </AutoSplitters>
